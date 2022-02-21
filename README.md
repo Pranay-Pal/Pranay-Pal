@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pranay-Pal
-- 👀 I’m interested in N/A
-- 🌱 I’m currently learning N/A
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me N/A
+- 👀 I’m interested in Web-Dev, GIUs, Pentesting.
+- 🌱 I’m currently learning - A lot of things you know. 
+- 💞️ I’m looking to collaborate on - any project that seems interesting.
+- 📫 How to reach me - Mail : PNY1CL2125@GMAIL.COM
 
 For personal use any code can be coppied by any one.
 
